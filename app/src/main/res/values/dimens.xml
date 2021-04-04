@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_item_large">16dp</dimen>
+    <dimen name="padding_item_medium">8dp</dimen>
+    <dimen name="padding_item_small">4dp</dimen>
+</resources>
